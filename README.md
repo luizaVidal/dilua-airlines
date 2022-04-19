@@ -36,6 +36,6 @@ Os alunos são encorajados a discutir os problemas com outros alunos mas não de
 
 ## Metadados
 
-* Autores: [Ana Weng], [Dionísio Miron], [Luiza Vidal]
-* Curso: [Engenharia Informática]
-* Instituição: [Universidade Lusófona de Humanidades e Tecnologias][ULHT]
+* Autores: Ana Weng, Dionísio Miron, Luiza Vidal
+* Curso: Engenharia Informática
+* Instituição: Universidade Lusófona de Humanidades e Tecnologias, ULHT
