@@ -19,7 +19,7 @@ Este execício consiste na escrita de um enunciado para um problema de programa�
 ### Código
 O código é feito na Linguagem C e compila sem erros ou *warnings* utilizando o *gcc* com as seguintes flags:
 `-g -Wvla -Wall -Wpedantic -Wextra -Wdeclaration-after-statement`.
-- O código é correctamente indentado e comentado.
+O código é correctamente indentado e comentado.
 
 ### Testes
 Temo um conjunto de ficheiros de teste para validação do código. Os ficheiros de teste são um conjunto de pares de ficheiros input (extensão `.in`) e output (extensão `.out`).
